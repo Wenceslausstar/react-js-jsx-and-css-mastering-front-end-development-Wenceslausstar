@@ -2,6 +2,7 @@
   "name": "react-js-jsx-and-css-mastering-front-end-development-wenceslausstar",
   "version": "1.0.0",
   "description": "Responsive React application using JSX and Tailwind CSS — component architecture, state management, hooks, and API integration.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
